@@ -20,6 +20,14 @@
     margin: 10px;
 }
 
+.chatletText {
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: "Titan One", sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
 .welcome-text {
     font-size: 2rem;
     font-family: "Nunito Bold", sans-serif;

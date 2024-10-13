@@ -4,10 +4,12 @@ import styles from "@styles";
 export default function Home() {
     return (
         <>
-            <div className={styles.landing.imageContainer}>
-                <img className={styles.landing.image} src="/assets/landing.png" alt="Blook Messaging on Mobile Device" />
+            <br/>
+            <div className={styles.landing.chatletText}>
+                Chatlet
             </div>
-
+            <br/>
+            <br/>
             <div className={styles.landing.welcomeContainer}>
                 <div className={styles.landing.welcomeText}>
                     Welcome to Chatlet
